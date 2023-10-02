@@ -10,7 +10,7 @@ To get started, proceed with the following steps (or watch the following VIDEO):
 4.  Scroll down and in the section **Editor Preference**, choose `JupyterLab`
 5.  Click on the following button:  
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/danielvallieres/math235-lab1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/danielvallieres/Math235-lab1)
 
 6.  Click on the green button `Create codespace`.
 7.  If you click on `View logs`, you will see that a bunch of things is happening.  You don't need to understand any of that, but it will take about **10 minutes** for the codespace to initialize.  Let it be.  Let it do its thing.  Be patient. 
