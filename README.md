@@ -23,7 +23,7 @@ To get started, proceed with the following steps (or watch the following VIDEO):
 Once you are done, go over the following steps to submit your Computer Lab (or watch the following VIDEO).
 
 1.  Save your notebook.
-2.  Click on 'file', then 'Save and Export Notebook as...' and choose 'HTML'.
+2.  Click on `file`, then `Save and Export Notebook as...` and choose `HTML`.
 3.  Open the .html file.
 4.  Then convert to a pdf file.  You can do this by printing the html file and then exporting as a pdf file.
 5.  Print your pdf file and submit it in class before on the day it is due.
