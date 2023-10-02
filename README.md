@@ -20,8 +20,12 @@ To get started, proceed with the following steps (or watch the following VIDEO):
 11.  Go ahead and work on the notebook following the instructions. 
 12.  If you want, you can save your notebook, and close the window.  You can then come back to it later to complete the assignment.  In order to do so, click on your `identicon`, then on `Codespaces`.  You should see a codespace `danielvallieres/math235-lab1`.  Click on `...`, then click on `Open in`, and choose `Open in JupyterLab`.  Your notebook should reopen in the state you left it earlier. 
 
-Once you are done, go over the following steps to submit your Computer Lab.
+Once you are done, go over the following steps to submit your Computer Lab (or watch the following VIDEO).
 
-1.  FINISH THIS ...
+1.  Save your notebook.
+2.  Click on 'file', then 'Save and Export Notebook as...' and choose 'HTML'.
+3.  Open the .html file.
+4.  Then convert to a pdf file.  You can do this by printing the html file and then exporting as a pdf file.
+5.  Print your pdf file and submit it in class before on the day it is due.
 
 
